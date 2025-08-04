@@ -31,7 +31,6 @@ This tool is ideal for:
 ### 🔧 Prerequisites
 
 - Python 3.6 or higher (Windows, macOS, Linux)
-- Git (optional)
 
 ### 📥 Installation
 
