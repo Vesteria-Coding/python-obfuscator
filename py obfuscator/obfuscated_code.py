@@ -1,0 +1,1 @@
+import base64; obfuscated_code = [99, 72, 74, 112, 98, 110, 81, 111, 74, 48, 104, 108, 98, 71, 120, 118, 73, 70, 100, 118, 99, 109, 120, 107, 74, 121, 107, 61]; deobfuscated_code = "".join([chr(i) for i in obfuscated_code]); exec(base64.b64decode(deobfuscated_code))
