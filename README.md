@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.6%2B-blue?style=flat&logo=python)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
-![License](https://img.shields.io/github/license/yourusername/python-obfuscator?style=flat)
+![License](https://img.shields.io/github/license/Vesteria-Coding/python-obfuscator?style=flat)
 
 ## 📌 Overview
 
